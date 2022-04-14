@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MrKoshens
-- 👀 I’m interested in cryptography, puzzles and Mathematics
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Koshen
+- 👀 Cryptography and Linux enthusiast 
+- 🌱 I’m currently learning shell scripting
+- 💞️ I’m looking to collaborate on cryptography and security related projects
 
 <!---
 MrKoshens/MrKoshens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
